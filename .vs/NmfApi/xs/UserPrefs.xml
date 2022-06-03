@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{6C46B9A2-E8F4-43EF-ACA2-CCC14BAE5D1A}|Default">
+  <MonoDevelop.Ide.ItemProperties.NmfApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.NativeInjector FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Domain FirstBuild="True" />
+</Properties>

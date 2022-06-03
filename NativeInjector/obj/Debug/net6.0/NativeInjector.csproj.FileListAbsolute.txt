@@ -1,0 +1,15 @@
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/bin/Debug/net6.0/NativeInjector.deps.json
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/bin/Debug/net6.0/NativeInjector.dll
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/bin/Debug/net6.0/NativeInjector.pdb
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/bin/Debug/net6.0/Infra.dll
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/bin/Debug/net6.0/Infra.pdb
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/obj/Debug/net6.0/NativeInjector.csproj.AssemblyReference.cache
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/obj/Debug/net6.0/NativeInjector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/obj/Debug/net6.0/NativeInjector.AssemblyInfoInputs.cache
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/obj/Debug/net6.0/NativeInjector.AssemblyInfo.cs
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/obj/Debug/net6.0/NativeInjector.csproj.CoreCompileInputs.cache
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/obj/Debug/net6.0/NativeInjector.csproj.CopyComplete
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/obj/Debug/net6.0/NativeInjector.dll
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/obj/Debug/net6.0/refint/NativeInjector.dll
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/obj/Debug/net6.0/NativeInjector.pdb
+/Users/guilhermebernava/Documents/Pessoal/NmfApi/NativeInjector/obj/Debug/net6.0/ref/NativeInjector.dll
